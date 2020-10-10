@@ -11,7 +11,9 @@
   "devDependencies": {
     "parcel-bundler": "1.12.4"
   },
-  "dependencies": {},
+  "dependencies": {
+    "node-forge": "0.10.0"
+  },
   "keywords": [],
   "description": ""
 }
